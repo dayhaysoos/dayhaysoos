@@ -4,4 +4,3 @@ I've got lots of experience with React, React Native and have been diving deep i
 
 If you'd like to get in touch with me, you can reach me at <nick@dayhaysoos.com>.
 
-If you're looking to work with a dope agency, you can reach me at <nick@echobind.com>
